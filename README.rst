@@ -1,6 +1,9 @@
 .. image:: https://secure.travis-ci.org/cobrateam/splinter.svg?branch=master
    :target: http://travis-ci.org/cobrateam/splinter
 
+.. image:: https://api.codeclimate.com/v1/badges/1417f77798e082ef0009/maintainability
+   :target: https://codeclimate.com/github/Shoobx/splinter/maintainability
+   :alt: Maintainability
 
 ++++++++++++++++++++++++++++++++++++++++++++++++
 splinter - python tool for test web applications
